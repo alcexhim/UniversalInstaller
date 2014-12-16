@@ -1,0 +1,3 @@
+uipm - graphical installer
+uipm /action:install /package:{...} - launch graphical UI to add/remove specified package
+	this is called by uipm when a user selects the delayed-UAC "Install Selected Packages" command
